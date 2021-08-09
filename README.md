@@ -78,7 +78,7 @@ R: Benjamín Gutiérrez Galaz
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R: La diferencia es que R es un panel parecido al control de comandos de windows, donde uno puede escribir cosas, RStudio puede hacer mas cosas, RStudio es como la "version premium" de R.
+R: R es una Herramienta de "ambiente" que es libre y gratis, RStudio es la herramienta de entorno de desarrollo integrado (IDE) para R.
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
 
